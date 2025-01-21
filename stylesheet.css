@@ -10,7 +10,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #222831;
   font-family: sans-serif;
   background-image: url("2.png");
 }
