@@ -1,4 +1,8 @@
-window.onload(setTimeout(showresult, 5000);
+document.addEventListener("DOMContentLoaded", function(){
+setTimeout(function(){
+document.body.style.backgroundImage = "url('2.jpg')";
+});
+});
 function showresult(choice)
 {
 		var n1= document.getElementById('num1').value;
