@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(){
 setTimeout(function(){
 document.body.style.backgroundImage = "url('2.jpg')";
-}, 5000);
+}, 10000);
 });
 function showresult(choice)
 {
