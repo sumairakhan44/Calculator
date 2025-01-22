@@ -40,6 +40,7 @@ function showresult(choice)
 			}
 			document.getElementById('result').value = r;
 		}
+	 setTimeout(function(){showresult()},2000)
 }
 function Clear()
 {
