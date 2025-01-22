@@ -1,4 +1,4 @@
-window.onload(setTimeout(function(){showresult()});
+window.onload(setTimeout(showresult, 5000);
 function showresult(choice)
 {
 		var n1= document.getElementById('num1').value;
